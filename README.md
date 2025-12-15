@@ -3,7 +3,7 @@
 **Sticky Clock** is a cozy, pixel-style productivity app inspired by retro desktop timers.  
 It sits on your screen like a sticky note and helps you manage **focus time, breaks, water reminders, and a stopwatch** — without distractions.
 
-Built with **HTML, CSS, JavaScript**, packaged using **Electron** for desktop and **Capacitor** for Android.
+Built with **HTML, CSS, JavaScript**, for [Windows](https://sites.google.com/view/stickyclock/home?) and [MacOs](https://sites.google.com/view/stickyclock/home?) and  for Android and iphone currently not developed.
 
 ---
 
@@ -38,4 +38,11 @@ Built with **HTML, CSS, JavaScript**, packaged using **Electron** for desktop an
 - **Build Tools:** electron-builder  
 
 ---
+# WANT TO TRY ?
+It is avilable for Windows and MacOs
+## [Click Here](https://sites.google.com/view/stickyclock/home?)
+```bash
+https://sites.google.com/view/stickyclock/home?
+```
+
 
