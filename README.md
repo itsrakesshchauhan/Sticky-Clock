@@ -44,5 +44,10 @@ It is avilable for Windows and MacOs
 ```bash
 https://sites.google.com/view/stickyclock/home?
 ```
+![p](https://github.com/user-attachments/assets/4f6feade-1fdc-4ba5-99b6-6dd36b3cef42)
+
+
+![p](https://github.com/![p3](https://github.com/user-attachments/assets/b3cc1047-ff3b-48a0-8c4e-62f0cdd08a77)
+user-attachments/assets/9c2989b9-f0c1-425b-976c-5ba923f79fa9)
 
 
